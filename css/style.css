@@ -36,3 +36,20 @@
     height: 178px;
     width: 95%;
 }
+.top-btn{
+    background-color: #A97219;
+    padding: 8px 40px;
+    color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+}
+.top-btn:hover{
+    background-color: #724f16; 
+    color: white;  
+}
+.container{
+    background-color: #7CAFDB;
+    padding: 2px 4px;
+}
